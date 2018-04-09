@@ -38,4 +38,11 @@ public class HealthScript : MonoBehaviour {
 			gameObject.GetComponent<Rigidbody>().AddForce(-transform.forward * knockBack);
 		}
 	}
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.tag=="Finish"){
+            this.gameObject.transform.position = new Vector3(-12.6f, 2.7f, -31.26f);
+        }
+    }
 }
