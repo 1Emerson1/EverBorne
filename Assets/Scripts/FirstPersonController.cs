@@ -13,4 +13,10 @@ public class FirstPersonController : MonoBehaviour {
 	void Update () {
 		
 	}
+
+	private void OnTriggerEnter(Collider other) {
+		if (other.tag==("Finish")){
+			Application.Quit();
+		}
+	}
 }
