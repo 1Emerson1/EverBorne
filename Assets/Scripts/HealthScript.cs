@@ -18,8 +18,7 @@ public class HealthScript : MonoBehaviour {
 		Debug.Log("Health - " + currentHealth);
 		if(currentHealth <= 0) {
 			currentHealth = 0;
-			Debug.Log("Dead!");
-			
+			Debug.Log("Dead!");	
 		}
 	}
 
@@ -27,14 +26,13 @@ public class HealthScript : MonoBehaviour {
 	// and deduct 5 health points
     void OnCollisionEnter(Collision collision) {
 		// setting knock back variables	
-		var knockBack = 7500;
+		var knockBack = 5500;
 
-		if(collision.gameObject.tag == "wall") {
+		if(collision.gameObject.tag == "Minotaur") {
 			// apply damage to player
 			TakeDamage();
-
-			Debug.Log("Knocking you back");
 			// knock player back
+			Debug.Log("Knocking you back");
 			gameObject.GetComponent<Rigidbody>().AddForce(-transform.forward * knockBack);
 		}
 	}
