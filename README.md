@@ -7,9 +7,7 @@
 
 <body class="c39">
     <div>
-        <p class="c2 c11"><span class="c6"></span></p>
-        <p class="c3"><span class="c56">EVERBORNE</span></p>
-        <p class="c3"><span class="c71">// the name can be changed at any time</span></p>
+        <h2>EVERBORNE</h2>
         <p class="c2 c11"><span class="c6"></span></p><a id="t.4003a7b12f601f0b1bb01a105081003476d19d2a"></a><a id="t.5"></a>
         <table class="c17">
             <tbody>
@@ -55,11 +53,8 @@
                 </tr>
             </tbody>
         </table>
-        <p class="c3"><span class="c28 c43">ROOM HH310</span><span class="c43">&nbsp;</span><span class="c43">Tues.: 11:30am - 2:30pm</span><span class="c43">&nbsp; | </span><span class="c28 c43">Thurs</span><span class="c28 c43">.: 1:00pm - 6:00pm</span></p>
     </div>
     <h2 class="c42" id="h.v67uxpn9eyd0"><span class="c37">MAIN IDEA</span></h2>
-    <h5 class="c60" id="h.jwko4mw7cih2"><span class="c50 c53">STALK Emerson: </span></h5>
-    <h5 class="c60 c69" id="h.pfcxmqgppw3h"><span>&gt; </span><span class="c40 c52"><a class="c9" href="https://www.google.com/url?q=https://github.com/1Emerson1/EverBorne&amp;sa=D&amp;ust=1520277867294000&amp;usg=AFQjCNFzi5dmVKV0XzzMrX_Pz-o8nmp6hA">https://github.com/1Emerson1/EverBorne</a></span><span class="c15">&nbsp;</span></h5>
     <h5 class="c60" id="h.r8lxefnatj6r"><span class="c15">UNITY DOWNLOAD: </span></h5>
     <ul class="c16 lst-kix_iubj3dcpw9rq-0 start">
         <li class="c2 c5"><span class="c50">Version 2017.1.0: </span><span class="c40 c52"><a class="c9" href="https://www.google.com/url?q=https://unity3d.com/get-unity/download/archive&amp;sa=D&amp;ust=1520277867295000&amp;usg=AFQjCNEb-h9bkJzds9rAtp2GmM7O4VsT5Q">https://unity3d.com/get-unity/download/archive</a></span></li>
@@ -83,7 +78,6 @@
             </tr>
         </tbody>
     </table>
-    <p class="c2 c11"><span class="c6"></span></p><a id="t.debab257cd6f2a447c6e44681133d0d10024f08a"></a><a id="t.1"></a>
     <table class="c17">
         <tbody>
             <tr class="c8">
@@ -406,33 +400,6 @@
     <p class="c2 c11"><span class="c6"></span></p>
     <hr style="page-break-before:always;display:none;">
     <p class="c2 c11"><span class="c6"></span></p>
-    <h2 class="c42" id="h.xbexd3moced1"><span class="c37">VIDEO EXAMPLE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></h2>
-    <p class="c2"><span class="c45"><a class="c9" href="https://www.google.com/url?q=https://www.youtube.com/watch?v%3DLmK6LxfhnMQ&amp;sa=D&amp;ust=1520277867323000&amp;usg=AFQjCNHlBxgcV2D-mYYP9PT1BkgZN6IUSA">https://www.youtube.com/watch?v=LmK6LxfhnMQ</a></span></p>
-    <p class="c2"><span class="c45"><a class="c9" href="https://www.google.com/url?q=https://www.youtube.com/watch?v%3D3khBcfXH__c&amp;sa=D&amp;ust=1520277867324000&amp;usg=AFQjCNH0S3oJ65UDy13M9I2In24XEPuFOQ">https://www.youtube.com/watch?v=3khBcfXH__c</a></span></p>
-    <p class="c2 c11"><span class="c20"></span></p>
-    <p class="c2"><span class="c20"><br>&gt;MOVING (object): </span></p>
-    <p class="c2"><span class="c47">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="c45"><a class="c9" href="https://www.google.com/url?q=https://unity3d.com/learn/tutorials/projects/roll-ball-tutorial/moving-player?playlist%3D17141&amp;sa=D&amp;ust=1520277867324000&amp;usg=AFQjCNE3DX2NVNxBYyleadEPyvYWXIQ1Vg">https://unity3d.com/learn/tutorials/projects/roll-ball-tutorial/moving-player?playlist=17141</a></span></p>
-    <p class="c2 c11"><span class="c20"></span></p>
-    <p class="c2"><span class="c20">&gt;NavMesh:</span></p>
-    <p class="c2 c11"><span class="c20"></span></p>
-    <p class="c2"><span class="c47">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="c45"><a class="c9" href="https://www.google.com/url?q=https://unity3d.com/learn/tutorials/topics/navigation/navmesh-agent&amp;sa=D&amp;ust=1520277867325000&amp;usg=AFQjCNEjCHS24OWg2ZMxPqY9NWvr_Gr-aQ">https://unity3d.com/learn/tutorials/topics/navigation/navmesh-agent</a></span><span class="c20"><br></span></p>
-    <p class="c2"><span class="c20">&gt;Minotaur Functions:</span></p>
-    <p class="c2 c11"><span class="c20"></span></p>
-    <p class="c2 c23"><span class="c45"><a class="c9" href="https://www.google.com/url?q=https://answers.unity.com/questions/750933/make-a-gameobject-follow-player-footsteps.html&amp;sa=D&amp;ust=1520277867326000&amp;usg=AFQjCNEkG9ayA1l523p6kQtjUjcNM2ppGA">https://answers.unity.com/questions/750933/make-a-gameobject-follow-player-footsteps.html</a></span></p>
-    <p class="c2 c23 c11"><span class="c20"></span></p>
-    <p class="c2"><span class="c6">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
-    <p class="c2"><span class="c6">&gt; Making Walls:</span></p>
-    <p class="c2 c23"><span class="c64 c52"><a class="c9" href="https://www.google.com/url?q=https://unity3d.com/learn/tutorials/projects/procedural-cave-generation-tutorial/3d-walls&amp;sa=D&amp;ust=1520277867327000&amp;usg=AFQjCNG7ulFIfRAP3i64PR8aqtAZgJL_Tw">h</a></span><span class="c52 c64"><a class="c9" href="https://www.google.com/url?q=https://unity3d.com/learn/tutorials/projects/procedural-cave-generation-tutorial/3d-walls&amp;sa=D&amp;ust=1520277867327000&amp;usg=AFQjCNG7ulFIfRAP3i64PR8aqtAZgJL_Tw">ttps://unity3d.com/learn/tutorials/projects/procedural-cave-generation-tutorial/3d-walls</a></span></p>
-    <p class="c2 c23 c11"><span class="c6"></span></p>
-    <p class="c2 c11"><span class="c6"></span></p>
-    <hr style="page-break-before:always;display:none;">
-    <p class="c2"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 330.50px; height: 330.50px;"><img alt="" src="images/image1.png" style="width: 330.50px; height: 330.50px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p>
-    <h2 class="c42" id="h.uc4yefikjvih"><span class="c37">QUESTIONS </span></h2>
-    <p class="c2"><span class="c28 c81">Faisal</span><span class="c28">:</span><span class="c6">&nbsp;Each color is a different power-up?</span></p>
-    <p class="c2 c11"><span class="c6"></span></p>
-    <p class="c2"><span class="c22">Trisha:</span><span>&nbsp;</span><span class="c6">That could work, but remember you cannot fight back at the Minotaur. Many like: Blue + Red = Purple : could be to see the arrows to get out of the maze quicker. Yellow + Blue = Green, extra life slot / +1 life returned. Yellow + Red = Orange; see hidden doors, find a Integrate Map (map piece), ...etc. So like Blue would be the rare color to try and find and won&#39;t generate often. And maybe after you get a new color you have to activate it, which will only last a certain amount of time. So if you do the idea above with what I said pertaining to the colors it might go as follows: ALL ITEMS CAN ONLY BE USED ONCE: Arrows will only appear for 5 minutes, Extra Life Slot can only be used in order to replace a life that was lost. If you activate the extra life while at full health you don&#39;t gain / lose anything. Orange will activate and will stay activated until you lose a life. Then those items will be lost. With All three colors (Yellow, Red &amp; Blue) activated you have full vision of everything until you lose a life.</span></p>
-    <p class="c2 c11"><span class="c6"></span></p>
-    <p class="c2"><span class="c28 c73">Brian:</span><span>&nbsp;Mirror maze? So like using the hexagonal maze and have the walls reflecting. </span></p>
 </body>
 
 </html>
