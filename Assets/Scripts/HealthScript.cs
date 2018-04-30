@@ -1,25 +1,46 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class HealthScript : MonoBehaviour {
     private const int maxHealth = 100;
-    public int currentHealth = maxHealth;
+    public int currentHealth;
 	public const int decreaseHealth = 5;
+	public TextMesh gameOverText;
+	public Text healthText;
 
-	// displays current health upon start
+	// setup function
 	void Start() {
+		// set initial health
+		currentHealth = maxHealth;
+		
+		healthText = GetComponent<Text>() as Text;
+
+		//healthText.text = "Health: " + currentHealth.ToString();
 		Debug.Log("Current health - " + currentHealth);
+
+		// finding TextMesh object
+		gameOverText = GameObject.Find("endGameText").GetComponent<TextMesh>();
+		gameOverText.text = "Game over!";
 	}
 
 	// method to apply damage to player's health
 	public void TakeDamage() {
 		currentHealth -= decreaseHealth;
+
+		//healthText.text = "Health: " + currentHealth.ToString();
+
 		Debug.Log("Health - " + currentHealth);
-		if(currentHealth <= 0) {
-			currentHealth = 0;
-			Debug.Log("Dead!");	
+		if(currentHealth == 0) {
+			Debug.Log("Dead!");
+			gameOverText.text = "You died!";
+			endGame();
 		}
+	}
+
+	public void endGame() {
+		this.gameObject.transform.position = new Vector3(-12.6f, 2.7f, -31.26f);
 	}
 
     // when player collides with wall, knock player back 
@@ -37,10 +58,11 @@ public class HealthScript : MonoBehaviour {
 		}
 	}
 
-    private void OnTriggerEnter(Collider other)
-    {
+	// end game method
+    private void OnTriggerEnter(Collider other) {
         if (other.gameObject.tag=="Finish"){
-            this.gameObject.transform.position = new Vector3(-12.6f, 2.7f, -31.26f);
+			gameOverText.text = "You won!";
+			endGame();
         }
     }
 }

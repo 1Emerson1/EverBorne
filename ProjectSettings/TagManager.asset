@@ -6,6 +6,7 @@ TagManager:
   tags:
   - wall
   - Minotaur
+  - endGameText
   layers:
   - Default
   - TransparentFX
